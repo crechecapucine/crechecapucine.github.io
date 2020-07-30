@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Association Capucine et papillons
 
-You can use the [editor on GitHub](https://github.com/crechecapucine/crechecapucine.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ceci est la page GitHub de l'association Capucine et papillons qui gère la crèche parentale Capucine, 35, rue Clisson, Paris XIII.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cette page ne remplace pas la page web de la crèche.
 
-### Markdown
+* [Page web de la crèche](https://sites.google.com/site/crechecapucinepapillons/home)
+* [Page Facebook de la crèche](https://www.facebook.com/capucineetpapillons)
+* [Statuts et règlements intérieurs](https://crechecapucine.github.io/documents/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pour inscrire votre enfant : rendez-vous sur la [page web de la crèche](https://sites.google.com/site/crechecapucinepapillons/home) pour une pré-inscription et une prise de contact avec des parents de l'accueil « Nouvelles familles » ; l'inscription suppose également une inscription auprès des services de la petite enfance de la mairie du XIIIe arrondissement.
 
-```markdown
-Syntax highlighted code block
+Direction de la crèche :
 
-# Header 1
-## Header 2
-### Header 3
+* email : directioncrechecapucine@gmail.com
+* tél. : 01 45 86 60 72
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crechecapucine/crechecapucine.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Mentions légales](https://sites.google.com/site/crechecapucinepapillons/mentions-legales)
