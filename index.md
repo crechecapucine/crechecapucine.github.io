@@ -2,9 +2,7 @@
 
 Ceci est la page GitHub de l'association Capucine et papillons qui gère la crèche parentale Capucine, 35, rue Clisson, Paris XIII. Elle contient 
 
-<center>
 [Liens](liens) • [Démarches](demarches) • [Commissions](#)
-</center>
 
 Cette page ne remplace pas la page web de la crèche.
 
